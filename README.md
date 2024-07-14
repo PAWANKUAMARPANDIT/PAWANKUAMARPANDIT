@@ -32,6 +32,10 @@ Developed the backend for a website similar to YouTube, enabling functionalities
 
 **Languages and Technologies Used**: Node.js, Express, MongoDB
 
+
+### Project 3: My Portfolio Js, TailwindCSS
+Developed a personal portfolio website using Tailwind CSS, showcasing skills and previous works
+
 ## Social Media
 Connect with me on various platforms:
 
