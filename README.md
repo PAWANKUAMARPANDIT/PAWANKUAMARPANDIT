@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey! 👋 I'm Pawan
 
-<!--
-**Sigma1213/Sigma1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Welcome to my GitHub profile! I am Pawan Kr Pandit, a passionate full-stack developer specializing in both frontend and backend technologies. I excel in building robust web applications with expertise in Node.js, Express.js, MongoDB, MySQL, React.js, JavaScript, CSS, and HTML.
 
-Here are some ideas to get you started:
+## Skills
+### Backend Development
+- **Languages**: JavaScript (Node.js)
+- **Framework/Platforms**: Express.js
+- **Databases**: MongoDB, MySQL
+- **API Development**: RESTful APIs
+- **Authentication & Authorization**: JWT, OAuth
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React.js
+- **UI/UX Design**: Responsive Design, CSS Preprocessors (Sass, Less)
+
+## Projects
+Explore my featured projects, showcasing different aspects of my full-stack development skills.
+
+### Project 1: Map Tracker
+A web application that allows users to check and track specific places and find the distance between the user and the selected location.
+
+**Languages and Technologies Used**: Node.js, Express, EJS
+
+[View Project Repository](https://github.com/Sigma1213/Map-tracker)
+
+### Project 2: Backend of YouTube-like Website
+Developed the backend for a website similar to YouTube, enabling functionalities such as video uploads, user authentication, and video streaming.
+
+**Languages and Technologies Used**: Node.js, Express, MongoDB
+
+## Social Media
+Connect with me on various platforms:
+
+- **Twitter**: [https://twitter.com/PawanPa98011176](https://twitter.com/PawanPa98011176)
+- **GitHub**: [https://github.com/Sigma1213](https://github.com/Sigma1213)
+
+## Contact
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) for any collaboration or project inquiries.
