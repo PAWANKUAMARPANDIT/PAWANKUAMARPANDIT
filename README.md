@@ -39,4 +39,4 @@ Connect with me on various platforms:
 - **GitHub**: [https://github.com/Sigma1213](https://github.com/Sigma1213)
 
 ## Contact
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) for any collaboration or project inquiries.
+Feel free to reach out to me via mail(pawanpandit9834@gmail.com) for any collaboration or project inquiries.
