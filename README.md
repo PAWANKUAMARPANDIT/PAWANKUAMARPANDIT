@@ -28,7 +28,7 @@ A web application that allows users to check and track specific places and find 
 [View Project Repository](https://github.com/Sigma1213/Map-tracker)
 
 ### Project 2: Backend of YouTube-like Website
-Developed the backend for a website similar to YouTube, enabling functionalities such as video uploads, user authentication, and video streaming.
+Developed the backend for a website similar to YouTube, enabling functionalities such as video uploads, user authentication.
 
 **Languages and Technologies Used**: Node.js, Express, MongoDB
 
