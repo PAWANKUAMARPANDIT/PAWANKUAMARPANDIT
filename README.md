@@ -34,7 +34,7 @@ Developed the backend for a website similar to YouTube, enabling functionalities
 
 
 ### Project 3: My Portfolio Js, TailwindCSS
-Developed a personal portfolio website using Tailwind CSS, showcasing skills and previous works
+The project includes multiple pages like Home, About, Contact, User, Github,location and a 404 Not Found page,outlet is been used for some common layout like header and footer where main section will only move.
 
 ## Social Media
 Connect with me on various platforms:
