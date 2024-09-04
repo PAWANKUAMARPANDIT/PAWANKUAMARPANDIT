@@ -17,25 +17,6 @@ Welcome to my GitHub profile! I am Pawan Kr Pandit, a passionate full-stack deve
 - **Frameworks/Libraries**: React.js
 - **UI/UX Design**: Responsive Design, CSS Preprocessors (Sass, Less)
 
-## Projects
-Explore my featured projects, showcasing different aspects of my full-stack development skills.
-
-### Project 1: Map Tracker
-A web application that allows users to check and track specific places and find the distance between the user and the selected location.
-
-**Languages and Technologies Used**: Node.js, Express, EJS
-
-
-
-### Project 2: Backend of YouTube-like Website
-Developed the backend for a website similar to YouTube, enabling functionalities such as video uploads, user authentication.
-
-**Languages and Technologies Used**: Node.js, Express, MongoDB
-
-
-### Project 3: My Portfolio Js, TailwindCSS
-The project includes multiple pages like Home, About, Contact, User, Github,location and a 404 Not Found page,outlet is been used for some common layout like header and footer where main section will only move.
-
 ## Social Media
 Connect with me on various platforms:
 
