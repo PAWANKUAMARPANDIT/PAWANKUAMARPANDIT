@@ -1,27 +1,29 @@
-# Hey! 👋 I'm Pawan
+# Hey! 👋 I'm Pawan  
 
-## About
-Welcome to my GitHub profile! I am Pawan Kr Pandit, a passionate full-stack developer specializing in both frontend and backend technologies. I excel in building robust web applications with expertise in Node.js, Express.js, MongoDB, MySQL, React.js, JavaScript, CSS, and HTML.
+## About  
+Welcome to my GitHub profile! I am Pawan Kr Pandit, a passionate full-stack developer specializing in both frontend and backend technologies. I excel in building robust web applications with expertise in Node.js, Express.js, MongoDB, MySQL, React.js, JavaScript, TypeScript, CSS, and HTML.  
 
-## Skills
-### Backend Development
-- **Languages**: JavaScript (Node.js)
-- **Framework/Platforms**: Express.js
-- **Databases**: MongoDB, MySQL
-- **API Development**: RESTful APIs
-- **Authentication & Authorization**: JWT, OAuth
-- **Version Control**: Git, GitHub
+## Skills  
 
-### Frontend Development
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React.js
-- **UI/UX Design**: Responsive Design, CSS Preprocessors (Sass, Less)
+### Backend Development  
+- **Languages**: JavaScript (Node.js)  
+- **Framework/Platforms**: Express.js  
+- **Databases**: MongoDB, MySQL  
+- **API Development**: RESTful APIs  
+- **Authentication & Authorization**: JWT, OAuth  
+- **Containerization & Orchestration**: Docker, Kubernetes  
+- **Version Control**: Git, GitHub  
 
-## Social Media
-Connect with me on various platforms:
+### Frontend Development  
+- **Languages**: JavaScript, HTML, CSS  
+- **Frameworks/Libraries**: React.js  
+- **UI/UX Design**: Responsive Design, CSS Preprocessors (Sass, Less)  
 
-- **Twitter**: [https://twitter.com/PawanPa98011176](https://twitter.com/PawanPa98011176)
-- **GitHub**: [https://github.com/Sigma1213](https://github.com/Sigma1213)
+## Social Media  
+Connect with me on various platforms:  
 
-## Contact
-Feel free to reach out to me via mail(pawanpandit9834@gmail.com) for any collaboration or project inquiries.
+- **Twitter**: [https://twitter.com/PawanPa98011176](https://twitter.com/PawanPa98011176)  
+- **GitHub**: [https://github.com/PAWANKUAMARPANDIT](https://github.com/PAWANKUAMARPANDIT)  
+
+## Contact  
+Feel free to reach out to me via mail [(pawanpandit9834@gmail.com)] for any collaboration or project inquiries.  
