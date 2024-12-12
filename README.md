@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Pawan  
 
 ## About  
-Welcome to my GitHub profile! I am Pawan Kr Pandit, a passionate full-stack developer specializing in both frontend and backend technologies. I excel in building robust web applications with expertise in Node.js, Express.js, MongoDB, MySQL, React.js, JavaScript, TypeScript, CSS, and HTML.  
+Welcome to my GitHub profile! I am Pawan Kuamar Pandit, a passionate full-stack developer specializing in both frontend and backend technologies. I excel in building robust web applications with expertise in Node.js, Express.js, MongoDB, MySQL, React.js, JavaScript, TypeScript, CSS, and HTML.  
 
 ## Skills  
 
