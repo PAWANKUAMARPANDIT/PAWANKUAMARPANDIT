@@ -26,4 +26,4 @@ Connect with me on various platforms:
 - **GitHub**: [https://github.com/PAWANKUAMARPANDIT](https://github.com/PAWANKUAMARPANDIT)  
 
 ## Contact  
-Feel free to reach out to me via mail [(pawanpandit9834@gmail.com)] for any collaboration or project inquiries.  
+Feel free to reach out to me via mail [pawanpandit9834@gmail.com](pawanpandit9834@gmail.com) for any collaboration or project inquiries.  
